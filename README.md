@@ -21,6 +21,8 @@ The balanced accuracy scores and the precision and recall scores of all machine 
 
 Machine Learning Model 1:
 Description of Model 1 Accuracy, Precision, and Recall scores. • Accuracy: 0.9442676901753825 • Precision: 0 (healthy loan) 1.00; 1 (high-risk loan) 0.87 • Recall: 0 (healthy loan) 1.00; 1 (high-risk loan) 0.89
+
+
 Machine Learning Model 2:
 Description of Model 2 Accuracy, Precision, and Recall scores. • Accuracy: 0.9959744975744975 • Precision: 0 (healthy loan) 0.99; 1 (high-risk loan) 1.00 • Recall: 0 (healthy loan) 0.87; 1 (high-risk loan) 1.00
 
